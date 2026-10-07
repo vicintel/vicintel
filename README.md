@@ -1,98 +1,50 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Victor%20Dickson&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20for%20Africa&descAlignY=60&descColor=e0e7ff" width="100%" />
-</div>
+# Victor Dickson
 
-<br/>
+Full-stack engineer in Lagos building commerce, payments and applied-AI systems for African businesses.
 
-<div align="center">
-  <a href="https://github.com/Vicintel">
-    <img src="https://komarev.com/ghpvc/?username=Vicintel&label=Profile%20Views&color=6366f1&style=flat-square" />
-  </a>
-</div>
+[Portfolio](https://myportfolio-one-eta-18.vercel.app) · [LinkedIn](https://linkedin.com/in/victor-dickson-0b7650122) · [Myshoplet](https://www.myshoplet.com) · [X](https://x.com/Vicinteltech)
 
----
+## What I am building
 
-### Hey there 👋
+I founded and lead engineering at **[Myshoplet](https://www.myshoplet.com)**, an operating commerce platform for Nigerian sellers. It brings storefronts, point of sale, inventory, delivery, analytics and social selling into one system.
 
-I'm **Victor Dickson**, a Full-Stack Developer passionate about building products that solve real problems for businesses across Africa. I love turning complex ideas into clean, scalable web applications — from pixel-perfect UIs to robust backend systems.
+The current product includes:
 
-- 🔭 Currently building **[Myshoplet](https://github.com/vicintel/myshoplet-dashboard)** — an all-in-one e-commerce dashboard for African entrepreneurs
-- 🌍 Focused on products for the **African market**
-- 💡 Interested in SaaS, fintech, e-commerce, and developer tooling
-- 🐦 Twitter/X: [@vicinteltech](https://twitter.com/vicinteltech)
-- 📫 Open to collaboration and exciting opportunities
+- Paystack card checkout and dedicated virtual bank accounts with automatic transfer confirmation
+- An AI sales agent that handles product questions and orders across WhatsApp and Instagram
+- Subscription billing, payouts, KYC/KYB, disputes and an auditable money path
+- Google product schema, sitemaps, IndexNow publishing and AI-readable store catalogues
+- A Next.js frontend and Node/Express/MongoDB backend running in production on Vercel
 
----
+I also serve as CTO at **FavGrab**, where I lead the systems connecting restaurants, supermarkets, riders and customers across Southeast Nigeria.
 
-### 🛠 Tech Stack
+## Selected work
 
-**Frontend**
+### [Ledger](https://github.com/vicintel/ledger)
 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+A double-entry marketplace-payout ledger in TypeScript and Postgres. Database constraints enforce balanced transactions and make retried payment webhooks idempotent.
 
-**Backend**
+### [Shortlist Engine](https://github.com/vicintel/shortlist-engine)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+An automated engineering-job funnel that collects roles from public ATS APIs and email alerts, verifies that listings are still live, scores eligibility, and sends a ranked daily digest.
 
-**Tools & Platforms**
+### [Bloom](https://github.com/vicintel/bloom-app)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+A privacy-conscious menstrual and wellness companion with cycle tracking, biometric protection and personalised insights.
 
----
+### [DeFi Dashboard](https://github.com/vicintel/defi-dashboard)
 
-### 🚀 Featured Projects
+A wallet dashboard with MetaMask connection, token balances, CoinGecko pricing and Ethereum transaction history.
 
-<a href="https://github.com/vicintel/myshoplet-dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicintel&repo=myshoplet-dashboard&theme=tokyonight&border_color=6366f1" />
-</a>
-<a href="https://github.com/vicintel/bloom-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicintel&repo=bloom-app&theme=tokyonight&border_color=6366f1" />
-</a>
+## How I work
 
-<br/><br/>
+I am strongest where product engineering meets production operations: payment webhooks, idempotent writes, billing, LLM guardrails, performance profiling, incident response and the deployment path between them.
 
-<a href="https://github.com/vicintel/defi-dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicintel&repo=defi-dashboard&theme=tokyonight&border_color=6366f1" />
-</a>
-<a href="https://github.com/vicintel/swifttree-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicintel&repo=swifttree-backend&theme=tokyonight&border_color=6366f1" />
-</a>
+My day-to-day stack is JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, Postgres, Redis and Vercel. I also work with React Native, Expo, Python and SQL when the product calls for them.
 
----
+The most detailed account of what I have shipped—and what broke along the way—is on my **[portfolio](https://myportfolio-one-eta-18.vercel.app)**.
 
-### 📊 GitHub Stats
+## Contact
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vicintel&show_icons=true&theme=tokyonight&border_color=6366f1&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicintel&layout=compact&theme=tokyonight&border_color=6366f1" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vicintel&theme=tokyonight&border=6366f1" />
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vicintel&theme=tokyo-night&border_color=6366f1&color=818cf8&line=6366f1&point=ffffff" width="100%" />
-
----
-
-<div align="center">
-  <i>⚡ "Great products are built, not just coded."</i>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%" />
-</div>
+- Email: [victordickson1998@gmail.com](mailto:victordickson1998@gmail.com)
+- Open to full-stack, backend and applied-AI engineering roles, remote or in Lagos
