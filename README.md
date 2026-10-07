@@ -36,6 +36,10 @@ A privacy-conscious menstrual and wellness companion with cycle tracking, biomet
 
 A wallet dashboard with MetaMask connection, token balances, CoinGecko pricing and Ethereum transaction history.
 
+## Credential
+
+**[Google AI Professional Certificate](https://coursera.org/verify/professional-cert/PUYLK98ZREJG)** — Google / Coursera, October 2026. An eight-course programme covering responsible AI use across research, communication, data analysis, coding, app building and deployment.
+
 ## How I work
 
 I am strongest where product engineering meets production operations: payment webhooks, idempotent writes, billing, LLM guardrails, performance profiling, incident response and the deployment path between them.
