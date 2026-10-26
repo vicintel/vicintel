@@ -34,7 +34,7 @@ An automated engineering-job funnel that collects roles from public ATS APIs and
 
 ### [Bloom](https://github.com/vicintel/bloom-app)
 
-A privacy-conscious menstrual and wellness companion with cycle tracking, biometric protection and personalised insights.
+A privacy-conscious menstrual and wellness companion with cycle tracking, biometric protection and personalised insights. **[Try it live](https://vicintel.github.io/bloom-app/)**
 
 ### [DeFi Dashboard](https://github.com/vicintel/defi-dashboard)
 
