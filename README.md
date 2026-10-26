@@ -38,7 +38,7 @@ A privacy-conscious menstrual and wellness companion with cycle tracking, biomet
 
 ### [DeFi Dashboard](https://github.com/vicintel/defi-dashboard)
 
-A wallet dashboard with MetaMask connection, token balances, CoinGecko pricing and Ethereum transaction history.
+A read-only Ethereum dashboard: live prices, a wallet's balances in dollars and its transaction history. Connect MetaMask or look up any address or ENS name. **[Try it live](https://vicintel.github.io/defi-dashboard/)**
 
 ## Credential
 
