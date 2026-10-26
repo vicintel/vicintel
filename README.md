@@ -20,6 +20,10 @@ I also serve as CTO at **FavGrab**, where I lead the systems connecting restaura
 
 ## Selected work
 
+### [Hotel Ops](https://github.com/vicintel/hotel-ops)
+
+Ordering, bookings and payments for a multi-department hotel in Lagos. Guests order and book through a Claude-powered assistant on WhatsApp and the web, pay by bank transfer or card, and staff watch every payment land on a live dashboard. Signature-checked webhooks, idempotent payments and Moniepoint push payments keep the money path exact.
+
 ### [Ledger](https://github.com/vicintel/ledger)
 
 A double-entry marketplace-payout ledger in TypeScript and Postgres. Database constraints enforce balanced transactions and make retried payment webhooks idempotent.
